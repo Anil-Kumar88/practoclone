@@ -1,0 +1,136 @@
+/* 
+} */
+
+#maincontentBlock article{
+    width:80%;
+    height:80px;
+    margin-top: 28px;
+border-radius: 8px;
+background-color: #e6f5fc;
+margin: 0 auto;
+display: flex;
+align-items: center;
+justify-content: center;
+justify-content: space-between;
+
+}
+
+#maincontentBlock article div{
+    display: flex;
+    
+
+}
+
+#maincontentBlock article div main{
+    padding-left: 20px;
+}
+
+#maincontentBlock article div main h1{
+    font-size: 25px;
+    
+}
+#maincontentBlock article div main h4 {
+font-weight: 100;
+}
+
+.PhoneBlock{
+    
+}
+
+.mainCard{
+
+}
+
+.card1{
+    margin-top:10px;
+    border: 2px solid #ccc;
+   width:fit-content;
+   height:auto;
+}
+
+.card1 h2{
+    font-size:15px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding:7px 5px;
+}
+
+.card1 h4{
+    font-size:12px;
+    font-weight:lighter;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding:5px 5px;
+
+
+}
+.card1 h3{
+
+    font-size: 20;
+    font-weight:400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding:7px 5px;
+
+}
+.card1 h1{
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding:7px 5px;
+
+
+}
+
+.card1 h5{
+    text-align: center;
+   
+    color: #14bef0;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding:10px 0;
+    border-top: 1px solid #ccc;
+
+}
+
+.mainCard{
+    display: flex;
+    gap:20px;
+    width: 80%;
+    margin: 0 auto;
+}
+.mainCard:hover{
+    box-shadow: 1px 1px 2xp #ccc;
+}
+.cardHeading{
+    margin-top: 18px;
+   margin-left: 105px;
+}
+
+.HealthconcernImg  {
+    display:flex;
+    width:80%;
+    margin: 0 auto;
+   
+    justify-content: space-between;
+
+}
+
+.HealthconcernImg figure h1 {
+    text-align: center;
+    font-size:larger;
+    font-weight: bolder;
+
+   
+}
+.HealthconcernBlock{
+    margin-top: 25px;
+}
+.HealthconcernBlock>h1{
+
+    margin-left: 120px;
+}
+
+.HealthconcernImg figure:hover{
+    color:#14bef0;
+}
+

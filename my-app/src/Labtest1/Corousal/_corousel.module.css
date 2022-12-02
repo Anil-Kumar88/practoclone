@@ -1,0 +1,10 @@
+#CarouselBlock article{
+width:80%;
+margin:0 auto;
+margin-top: 20px;
+
+}
+
+#CarouselBlock article div{
+    border-radius: 20px;
+}
